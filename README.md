@@ -1,4 +1,4 @@
-# Quant Research
+# Quant Finance Repo
 Code from my fun PA projects
 
 **Equities Screener:**
