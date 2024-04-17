@@ -1,0 +1,114 @@
+﻿Original,New
+symbol,Ticker
+asOfDate,As Of Date
+periodType,Period
+AccountsPayable,Accounts Payable
+AccountsReceivable,Accounts Receivable
+AccumulatedDepreciation,Accumulated Depreciation
+BasicEPS,Basic EPS
+BeginningCashPosition,Beginning Cash Position
+BuildingsAndImprovements,Buildings And Improvements
+CapitalExpenditure,Capital Expenditure
+CapitalLeaseObligations,Capital Lease Obligations
+CapitalStock,Capital Stock
+CashAndCashEquivalents,Cash and Cash Equivalents
+CashDividendsPaid,Cash Dividends Paid
+CashFlowFromContinuingFinancingActivities,Cash from Financing Activities
+CashFlowFromContinuingInvestingActivities,Cash from Investing Activities
+CashFlowFromContinuingOperatingActivities,Cash from Operating Activities
+ChangeInAccountPayable,Change in Accounts Payable
+ChangeInInventory,Change in Inventory
+ChangeInWorkingCapital,Change in Working Capital
+CommonStock,Common Stock
+CommonStockDividendPaid,Common Stock Dividend Paid
+CommonStockEquity,Common Stock Equity
+CommonStockIssuance,Common Stock Issuance
+CommonStockPayments,Common Stock Payments
+CostOfRevenue,Cost Of Revenue
+CurrentAssets,Current Assets
+CurrentDebt,Current Debt
+CurrentDebtAndCapitalLeaseObligation,Current Debt and Capital Obligations
+CurrentDeferredLiabilities,Current Deferred Liabilities
+CurrentDeferredRevenue,Current Deferred Revenue
+CurrentLiabilities,Current Liabilities
+DeferredIncomeTax,Deferred Income Tax
+DeferredTax,Deferred Tax
+Depreciation,Depreciation
+DepreciationAndAmortization,Depreciation and Amortization
+DilutedAverageShares,Diluted Average Shares
+DilutedEPS,Diluted EPS
+EBIT, EBIT
+EBITDA, EBITDA
+EndCashPosition,End Cash Position
+FinancingCashFlow,Financing Cash Flow
+FinishedGoods,Finished Goods
+FreeCashFlow,Free Cash Flow
+GainLossOnInvestmentSecurities,Gain on Investment Securities
+GainOnSaleOfSecurity,Gain on Sale of Security
+GeneralAndAdministrativeExpense,General and Administrative Expense
+Goodwill,Goodwill
+GrossPPE,Gross PPE
+GrossProfit,Gross Profit
+IncomeTaxPayable,Income Tax Payable
+InterestExpense,Interest Expense
+InterestExpenseNonOperating,Interest Expense Non Operating
+InterestIncome,Interest Income
+InterestIncomeNonOperating,Interest Income Non Operating
+Inventory,Inventory
+IssuanceOfCapitalStock,Issuance of Capital Stock
+IssuanceOfDebt,Issuance Of Debt
+LandAndImprovements,Land and Improvements
+Leases,Leases
+LongTermDebt,Long Term Debt
+LongTermDebtAndCapitalLeaseObligation,Long Term and Capital Lease Obligations
+LongTermDebtIssuance,Long Term Debt Issuance
+LongTermDebtPayments,Long Term Debt Payments
+LongTermEquityInvestment,Long Term Equity Investment
+NetBusinessPurchaseAndSale,Net Business Purchase and Sale
+NetCommonStockIssuance,Net Common Stock Issuance
+NetDebt,Net Debt
+NetIncome,Net Income
+NetIncomeContinuousOperations,Net Income Continuous Operations
+NetInterestIncome,Net Interest Income
+NetLongTermDebtIssuance,Net Long Term Debt Issuance
+NetPPE,Net PPE
+NetPPEPurchaseAndSale,Net PPE Purchase and Sale
+NetShortTermDebtIssuance,Net Short Term Debt Issuance
+NetTangibleAssets,Net Tangible Assets
+NonCurrentDeferredAssets,Non Current Deferred Assets
+NonCurrentDeferredLiabilities,Non Current Deferred Liabilities
+NormalizedEBITDA,Normalized EBITDA
+NormalizedIncome,Normalized Income
+OperatingCashFlow,Operating Cash Flow
+OperatingExpense,Operating Expense
+OperatingIncome,Operating Income
+OperatingRevenue,Operating Revenue
+OrdinarySharesNumber,Ordinary Shares Number
+Payables,Payables
+PayablesAndAccruedExpenses,Payables and Accrued Expenses
+PensionandOtherPostRetirementBenefitPlansCurrent,Pension and Post Retirement Benefit Plans
+PretaxIncome,Pre-tax Income
+Properties,Properties
+PurchaseOfPPE,Purchase PPE
+RawMaterials,Raw Materials
+Receivables,Receivables
+RepaymentOfDebt,Repayment Of Debt
+RepurchaseOfCapitalStock,Repurchase of Capital Stock
+ResearchAndDevelopment,Research And Development
+RetainedEarnings,Retained Earnings
+SaleOfInvestment,Sale Of Investment
+SellingAndMarketingExpense,Selling and Marketing Expense
+SellingGeneralAndAdministration,"Selling, General, and Administration Expense"
+StockBasedCompensation,Stock Based Compensation
+StockholdersEquity,Stockholders Equity
+TangibleBookValue,Tangible Book Value
+TaxProvision,Tax Provision
+TaxRateForCalcs,Tax rate Tax Calcs
+TotalAssets,Total Assets
+TotalCapitalization,Total Capitalization
+TotalDebt,Total Debt
+TotalExpenses,Total Expenses
+TotalNonCurrentAssets,Total Non-Current Assets
+TotalRevenue,Total Revenue
+WorkingCapital,Working Capital
+WriteOff,Write Off
